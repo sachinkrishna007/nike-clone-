@@ -1,0 +1,231 @@
+body{
+    margin: 0 ;
+    overflow: 0;
+}
+.logo{
+    background-color: #f5f5f5 ;
+    height:40px;
+    display: flex;
+    align-items: center;
+    padding-left: 3%;
+}
+.button
+{
+padding-left: 62rem; 
+font-size: 12px;
+}
+.logo img
+{
+    
+    
+    height: 25px    
+}
+.name{
+    border: none;
+    background: transparent; ;
+    margin: 0%;
+    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+cursor: pointer;
+    
+}
+.name:hover{
+    color: rgb(177, 173, 169);
+}
+.secondhead
+{
+    background-color: white;
+    width: 100%;
+    height: 60px;
+    display: flex;
+}
+.logo2{
+    padding-top:0;
+    padding-left: 2rem;
+    display: flex;
+    
+
+}
+.logo2 img
+{
+    height: 75px;
+    display: flex;
+    
+    
+    
+}    
+.button2
+{
+    background: transparent;
+    padding-left: 24rem;
+    padding-top: 1.5rem;
+    display: flex;
+    font-weight: bolder;
+    
+    
+    
+}
+.ba{
+    background: transparent;
+    border: none;
+    font-weight: 1px;
+    font-weight: 500;
+    font-size: 100%;
+}
+.input-field{
+   margin: 1rem;
+   padding-left: rem;
+   
+
+}
+.input1{
+    margin-left: 20%;
+    margin-top: 1.5%;
+    
+    
+}
+.yyy{
+    border-radius: 100px;
+    height: 30px;
+border: none;
+background-color:#f5f5f5;
+padding: 3%;
+display: flex;
+    
+}
+.love{
+    display: flex;
+    cursor: pointer;
+}
+
+
+.love img
+{
+    height: 57%;
+    padding-left: 1rem;
+    padding-top: 1rem;
+    display: flex;
+
+}
+
+
+.thirdrow{
+    background-color:#f5f5f5 ;
+    height: 50px;;
+    width: 100%;
+    font-size: 18px;
+  
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.thirdfont{
+    font-size: 100%;
+    font-weight: 1;
+    padding-left: 45%;
+    padding-top: 1%;
+}
+.thirdone{
+    background-color: rgb(255, 255, 255);
+    padding: 80px 0;
+    width: 100%;
+    text-align:center; 
+}
+.but{
+    padding-top: 3%;
+}
+.thirdone p
+{
+    font-size: 20px;
+    margin: 0;
+}
+.thirdone button
+{
+    border: transparent;
+    background-color: black;
+    color: #f5f5f5;
+    border-radius: 20px;
+    padding:11px;
+    padding-top: px;
+}
+
+    
+
+.record{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-weight: bolder ;
+    font-size: 60px;
+    margin: 0;
+    
+}
+.four{
+    background-image: url(orange1.webp);
+    height: 320px;
+    width: 100;
+    text-align: center;
+    padding: 1%;
+}
+
+.four h1{
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color: #f5f5f5;
+}
+.legs
+{
+    padding: 4%;
+}
+.four p
+{
+color: #f5f5f5;
+font-size: larger;
+}
+.four button{
+    border: transparent;
+    background-color: rgb(238, 225, 225);
+    color: #000000;
+    border-radius: 20px;
+    padding:11px;
+    
+}
+.five
+{
+    background-color: #f5f5f5;
+    height: 500px;
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+}
+.half
+{
+    
+    width: 50%;
+}
+.half-left
+{
+    float: left;
+}
+.half-right
+{
+    float: right;
+}
+.footer{
+    background-color: #000000;
+    height: 400px;
+    color: #f5f5f5;
+}
+.footer
+{
+    background-color: black;
+    height: 500px;
+}
+.footer1{
+    color: white;
+}
+.tablefooter{
+    width: 50%;
+    height: 350px;
+    padding-top: 1%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+
